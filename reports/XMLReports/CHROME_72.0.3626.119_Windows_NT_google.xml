@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="google"
+    errors="0" failures="1" hostname="" id="" package="google" skipped="0"
+    tests="1" time="17.80" timestamp="">
+  
+    <testcase name="Demo test Google" classname="google" time="17.80" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;input__input[type=text]&gt; is visible. Element could not be located in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;null&#34;[0m">    at Object.Demo test Google (C:\Users\STU\Desktop\Night\tests\google.js:8:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Demo test Google (C:\Users\STU\Desktop\Night\tests\google.js:8:17)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

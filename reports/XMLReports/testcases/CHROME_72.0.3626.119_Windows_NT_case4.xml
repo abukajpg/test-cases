@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="testcases.case4"
+    errors="0" failures="1" hostname="" id="" package="testcases" skipped="0"
+    tests="1" time="22.72" timestamp="">
+  
+    <testcase name="test artsyjewels" classname="testcases.case4" time="22.72" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 10000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.test artsyjewels (C:\Users\STU\Desktop\Night\tests\testcases\case4.js:6:2)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.test artsyjewels (C:\Users\STU\Desktop\Night\tests\testcases\case4.js:6:2)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
